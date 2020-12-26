@@ -1,6 +1,9 @@
-**This package provides a conventional front-end for [riari/laravel-forum](https://github.com/Riari/laravel-forum) 3.0 and above. It should be installed along with the forum unless a custom or alternative front-end implementation is required.**
+**This package provides a conventional front-end for 
+[seka19/laravel-forum](https://github.com/seka19/laravel-forum) 5.0 and above. It should be installed 
+along with the forum unless a custom or alternative front-end implementation is required.**
 
-**Complete documentation is available on [teamteatime.net](https://teamteatime.net/docs/laravel-forum/4.x/front-end.introduction.md).**
+**Complete documentation is available on
+[teamteatime.net](https://teamteatime.net/docs/laravel-forum/4.x/front-end.introduction.md).**
 
 ## Installation
 
@@ -9,7 +12,7 @@
 Install the package via composer:
 
 ```
-composer require riari/laravel-forum-frontend:~1.0
+composer require riari/laravel-forum-frontend:~2.0
 ```
 
 Then add the service provider to your `config/app.php`:
